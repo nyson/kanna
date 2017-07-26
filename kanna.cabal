@@ -5,8 +5,6 @@ name:                kanna
 version:             0.1.0.0
 synopsis:            puts asciiart of kanna on screen
 -- description:         
-license:             BSD3
-license-file:        LICENSE
 author:              Jonathan Skårstedt
 maintainer:          jonathan.skarstedt@gmail.com
 -- copyright:           

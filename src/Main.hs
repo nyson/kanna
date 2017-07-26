@@ -1,5 +1,6 @@
 module Main where
 
-import Kanna 
+import Kanna
+
 main :: IO ()
 main = putStrLn kanna
