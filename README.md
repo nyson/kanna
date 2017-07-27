@@ -65,3 +65,5 @@
                                                                                            :__
                                                                                             ·u·
 ```
+
+Kanna is stolen from [this hero](https://imgur.com/r/anime/XBRwo)
